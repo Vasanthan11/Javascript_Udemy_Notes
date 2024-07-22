@@ -1,0 +1,5 @@
+* While using the `` backtick for the script if we need the any of the variable to access use the   ${}   and variable name inside ti get it.
+the above is konwn as template literals
+
+* \n is for line brake inside the "" '' double or single quatation.
+
